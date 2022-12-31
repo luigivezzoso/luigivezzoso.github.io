@@ -1,13 +1,12 @@
 title: My 2 Cents about Cyber Security
 email: luigi.vezzoso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  Cyber Security | Dogs | Electronics | Photograph.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luigivezzoso.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository:
-twitter:
-github:
+twitter: 
+github: https://github.com/luigivezzoso
 
 header_image: assets/profile.png
 
@@ -15,9 +14,9 @@ google_analytics:
 comments: false
 disqus:
 
-author:
+author: Luigi Vezzoso
 author_bio: >-
-
+Hi! My names is Luigi Vezzoso
 author_pic:
 
 paginate: 5
