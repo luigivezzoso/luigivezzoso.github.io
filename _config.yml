@@ -42,7 +42,7 @@ defaults:
     values:
       layout: "post"
       author:
-      avatar: assets/profile.png
+      avatar: assets/hacker.png
   - scope:
       path: ""
       type: notes
