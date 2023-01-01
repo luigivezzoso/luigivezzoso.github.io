@@ -1,7 +1,7 @@
 title: My 2 Cents about Cyber Security
 email: luigi.vezzoso@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Cyber Security Professional | Dogs Lover | Electronics | Photograph
+  Cyber Security Professional | Dogs Lover | Music & Guitar | Electronics | Photograph | Life
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://luigivezzoso.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository:
@@ -42,7 +42,7 @@ defaults:
     values:
       layout: "post"
       author:
-      avatar: assets/profile-sm.png
+      avatar: assets/profile.png
   - scope:
       path: ""
       type: notes
