@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About "2Cents About Cyber Security"
+title: "2 Cents About Cyber Security"
 permalink: /about/
 ---
 
-**2Cents About Cyber Security** is a my personal blog where I would like to track projects, learnings, etc.
+This is a my personal blog where I would like to track projects, learnings, etc. Any information reported are my personal view and is not in any way related to my employee.
+
+

@@ -8,10 +8,11 @@ tags:
 category: Essays
 ---
 
-Hi All,
-every developers, during the initial stage of learning somenting new, use a standard greeting message to demonstate the first step taken into new adventure.... the famous "hello world" message.
+Hi There!
 
 
-so let me try to do my first step porting my experiences in github pages!
+Every developers, during the initial stage of learning somenting new, use a standard greeting message to demonstate the first step taken into new adventure.... the famous [**hello world**](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) message.
 
-Hello World!
+Reaching a goal requires to take the first step and then keep going step by step. So let me try to do my first step porting my experiences in github pages!
+
+**Hello World!**
