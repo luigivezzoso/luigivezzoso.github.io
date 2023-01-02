@@ -1,9 +1,11 @@
 ---
-title: [CVE-2013-2637] OTRS Faq Module – Persistent XSS
+title: CVE-2013-2637 OTRS Faq Module – Persistent XSS
 date: 2017-01-04
 author: Luigi Vezzoso
 layout: post
-tags:
+tags: 
+    - cve
+    - vulnerability
 category: Essays
 ---
  
