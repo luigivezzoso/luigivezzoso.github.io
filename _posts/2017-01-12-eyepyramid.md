@@ -14,4 +14,4 @@ In the last days in Italy spreads the news about the Occhionero brother and syst
 
 [https://securelist.com/blog/incidents/77098/the-eyepyramid-attacks/](https://securelist.com/blog/incidents/77098/the-eyepyramid-attacks/)
 
-{% youtube RSU5hROpWeM %}
+<!-- {% youtube RSU5hROpWeM %} -->
