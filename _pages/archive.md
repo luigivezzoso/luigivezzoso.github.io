@@ -1,21 +1,32 @@
 ---
 layout: page
 permalink: /archive
-title: Archive of All Collections
+title: Posts Archive
 ---
 
-**Note:** This page contains all material in anything in `_posts`, as well as all custom collections, such as `_notes`, and `_journals`, etc. with the only exception being `_pages`.
+{% for post in site.posts %}
 
-{% for collection in site.collections %}
-{% if collection.label != "pages" %}
+  {% capture current_year %}
 
-  <h2>Entries from {{ collection.label | capitalize }}</h2>
-  <ul>
-    {% for item in site[collection.label] %}
-      <li class="archive-links"><a href="{{ item.url }}">{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
+    {{post.date | date: "%Y"}}
+
+  {% endcapture %} 
+
+  {% if current_year != previous_year %} 
+
+    {% assign previous_year = current_year %}
+
+  <h3 class="post-header">
+      <span role="img" aria-label="icon-book" aria-hidden="true"></span>
+     {{ current_year }}
+   </h3>
   {% endif %}
+  <!-- <article class="posts">
+    <span class="posts-date">{{ post.date | date: "%b %d" }}</span><header class="posts-header"> <h4 class="posts-title"> <a href="{{ post.url }}">{{ post.title | escape }}</a> </h4>
+    </header> 
+  </article> -->
+<article class="posts">
+      <h4> &emsp;{{ post.date | date: "%b %d" }} &emsp;<a href="{{ post.url }}">{{ post.title | escape }}></a> </h4>
+</article>
+
 {% endfor %}
-
-
