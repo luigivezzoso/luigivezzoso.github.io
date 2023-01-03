@@ -26,7 +26,7 @@ title: Posts Archive
     </header> 
   </article> -->
 <article class="posts">
-      <h4> &emsp;{{ post.date | date: "%b %d" }} &emsp;<a href="{{ post.url }}">{{ post.title | escape }}></a> </h4>
+      <h4> &emsp;{{ post.date | date: "%b %d" }} &emsp;<a href="{{ post.url }}">{{ post.title | escape }}</a></h4>
 </article>
 
 {% endfor %}
