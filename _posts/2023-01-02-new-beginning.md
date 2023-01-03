@@ -1,5 +1,5 @@
 ---
-title: New Beginnig
+title: "New Beginnig #2"
 date: 2023-01-02
 author: Luigi Vezzoso
 layout: post

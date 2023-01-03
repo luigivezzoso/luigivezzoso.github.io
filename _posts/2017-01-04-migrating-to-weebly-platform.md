@@ -1,6 +1,6 @@
 ---
 title: Migrating to Weebly Platform
-date: 2017-01-04
+date: 2017-01-04 12:00:00
 author: Luigi Vezzoso
 layout: post
 tags: 

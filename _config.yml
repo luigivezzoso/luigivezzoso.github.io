@@ -74,3 +74,9 @@ exclude:
   - ".jekyll-cache"
   - "Gemfile"
   - "Gemfile.lock"
+
+jekyll-archives:
+  enabled: [all]
+  layout: archive
+  permalinks:
+    month: '/:year/:month/'
