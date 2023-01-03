@@ -1,10 +1,10 @@
 ---
-title: CVE-2013-2637 OTRS Faq Module – Persistent XSS
-date: 2017-01-04
+title: "[CVE-2013-2637] OTRS Faq Module – Persistent XSS"
+date: 2013-06-28
 author: Luigi Vezzoso
 layout: post
 tags: 
-    - cve
+    - CVE
     - vulnerability
 category: Essays
 ---
@@ -13,6 +13,8 @@ Some month ago I found this XSS into FAQ module of the well-know OTRS support ti
 
 You can find the public disclosure @ the following links:
 
-http://www.otrs.com/en/open-source/community-news/security-advisories/security-advisory-2013-02/
-http://www.exploit-db.com/exploits/24922/
-http://www.tenablesecurity.info/plugins/index.php?view=single&id=66582
+[OTRS Sec](http://www.otrs.com/en/open-source/community-news/security-advisories/security-advisory-2013-02/)
+
+[ExploitDB](http://www.exploit-db.com/exploits/24922/)
+
+[Tennable](http://www.tenablesecurity.info/plugins/index.php?view=single&id=66582)
