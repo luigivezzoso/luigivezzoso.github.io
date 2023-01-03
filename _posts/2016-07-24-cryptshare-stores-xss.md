@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - Vulnerability
-category: Essays
+category: posts
 ---
 
 Exploit Title: [CRYPTSHARE – Stored XSS]

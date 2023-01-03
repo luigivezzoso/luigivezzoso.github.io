@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - general
-category: Essays
+category: posts
 ---
 The 2016 was denoted by an increased usage of term as Software Defined Network (SDN), Cloud Architecture, etc.....
 

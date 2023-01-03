@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - vulnerability
-category: Essays
+category: posts
 ---
 
 Exploit Title: [SKYBOX Security - DDOS]

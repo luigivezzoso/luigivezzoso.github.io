@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - data protection
-category: Essays
+category: posts
 ---
 ![Photo by marcos mayer on Unsplash](assets/postimages/marcos-mayer-8-ni1wtqcgy-unsplash_orig.jpg)
 

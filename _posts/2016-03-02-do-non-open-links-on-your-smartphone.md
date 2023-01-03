@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - ransomware
-category: Essays
+category: posts
 ---
 
 An other Ramsonware is spreading into the wild targeting ANDROID devices!!!

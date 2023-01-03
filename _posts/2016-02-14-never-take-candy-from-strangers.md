@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - vulnerability
-category: Essays
+category: posts
 ---
 
 In these days I’m testing some tools used to evade antivirus (both client AV and gateway AV). The result is very impressive: the basic tools can evade most of antivirus.

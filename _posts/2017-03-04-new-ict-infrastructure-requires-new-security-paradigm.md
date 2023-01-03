@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - general
-category: Essays
+category: posts
 ---
 
 The title of this post may appear trivial but..... I know many security "expert", coming from the classic security architecture based on physical security, physical perimeter protection (firewalls, IPS/IDS, etc.) which continue to belive that only well defined boundary between security zones (LAN, DMZ, WAN, etc.) can protect your environment. The purpose of this post is to introduce some ideas about SDN and in particular the VMware NSX capability. Is not very technical and I'm not going deeper in the description because is out of scope. For all the technical details, please refer to the vendors documentation or ask me a question!

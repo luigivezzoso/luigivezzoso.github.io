@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - vulnerability
-category: Essays
+category: posts
 ---
 
 Analyzing  [Cyber Attacks Statistics](http://hackmageddon.com/2013-cyber-attacks-statistics/) it’s clear how the firewall isn’t enough!

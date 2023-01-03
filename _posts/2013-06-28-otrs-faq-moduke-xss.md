@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - vulnerability
-category: Essays
+category: posts
 ---
  
 Some month ago I found this XSS into FAQ module of the well-know OTRS support ticketing system. This vulnerability permit to an attacker whit FAQ publishing permission to “grab” the other user and/or admin that accesS a malicius FAQ.

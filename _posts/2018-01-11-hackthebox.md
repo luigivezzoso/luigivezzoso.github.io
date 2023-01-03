@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - CTF
-category: Essays
+category: posts
 ---
 
 During last year I decided to go deeper into the penetration testing field and I searched for resources and material to study. One of the best resource that I have found is [Hack The Box](https://www.hackthebox.eu).

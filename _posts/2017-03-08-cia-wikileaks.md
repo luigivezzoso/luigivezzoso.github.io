@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - general
-category: Essays
+category: posts
 ---
 
 These days peoples are talking about the CIA leaks published by Wikileaks (wikileaks.org/ciav7p1/index.html). Just some consideration from my side.

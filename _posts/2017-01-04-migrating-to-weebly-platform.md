@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags: 
     - updates
-category: Essays
+category: posts
 ---
 
 Hi All,

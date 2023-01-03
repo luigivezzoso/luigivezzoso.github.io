@@ -6,7 +6,7 @@ layout: post
 tags: 
     - CVE
     - vulnerability
-category: Essays
+category: posts
 ---
 
 Date: [22-Jan-2014]

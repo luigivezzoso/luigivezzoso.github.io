@@ -5,7 +5,7 @@ author: Luigi Vezzoso
 layout: post
 tags:
     - hello world
-category: Essays
+category: posts
 ---
 
 Hi There!

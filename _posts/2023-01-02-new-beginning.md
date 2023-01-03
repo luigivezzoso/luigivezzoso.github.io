@@ -4,7 +4,7 @@ date: 2023-01-02
 author: Luigi Vezzoso
 layout: post
 tags: updates
-category: Essays
+category: posts
 ---
 Hi There!
 
