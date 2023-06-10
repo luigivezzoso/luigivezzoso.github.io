@@ -1,6 +1,6 @@
 ---
 title: "HTB - Soccer walkthrough"
-
+date: 2023-06-11
 author: Luigi Vezzoso
 layout: post
 tags: 
@@ -338,7 +338,7 @@ player@soccer:~$ /usr/local/bin/doas -u root /usr/bin/dstat --xabaras
 /usr/bin/dstat:2619: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
   import imp
 root@soccer:/home/player# if
-> ^C
+> 
 root@soccer:/home/player# id
 uid=0(root) gid=0(root) groups=0(root)
 root@soccer:/home/player# cat /root/root.txt 
