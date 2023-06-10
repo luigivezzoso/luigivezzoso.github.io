@@ -8,7 +8,6 @@ tags:
     - hackthebox
     - pentest
 category: posts
-draft: true
 ---
 
 Hi There!
