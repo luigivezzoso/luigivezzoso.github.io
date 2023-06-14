@@ -1,6 +1,6 @@
 ---
 title: "HTB - Precious Walkthrough"
-date: 2023-06-14
+date: 2023-06-15
 author: Luigi Vezzoso
 layout: post
 tags: 
