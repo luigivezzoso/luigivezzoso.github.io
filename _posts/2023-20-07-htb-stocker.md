@@ -1,6 +1,6 @@
 ---
 title: "HTB - Stocker walkthrough"
-date: 2023-06-11
+date: 2023-07-20
 author: Luigi Vezzoso
 layout: post
 tags: 
